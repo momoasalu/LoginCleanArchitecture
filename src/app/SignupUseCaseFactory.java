@@ -7,7 +7,7 @@ import entity.UserFactory;
 import interface_adapter.*;
 import use_case.SignupInputBoundary;
 import use_case.SignupInteractor;
-import use_case.SignupOutputBoundary;
+import interface_adapter.SignupOutputBoundary;
 import view.SignupView;
 
 import javax.swing.*;
