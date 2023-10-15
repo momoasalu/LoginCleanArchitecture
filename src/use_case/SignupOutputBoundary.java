@@ -1,4 +1,4 @@
-package interface_adapter;
+package use_case;
 
 import use_case.SignupOutputData;
 

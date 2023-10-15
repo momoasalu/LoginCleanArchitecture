@@ -1,9 +1,7 @@
 package use_case;
 
-import data_access.UserSignupDataAccessInterface;
 import entity.User;
 import entity.UserFactory;
-import interface_adapter.SignupOutputBoundary;
 
 import java.time.LocalDateTime;
 

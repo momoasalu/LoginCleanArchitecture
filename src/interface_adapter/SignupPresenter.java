@@ -1,5 +1,6 @@
 package interface_adapter;
 
+import use_case.SignupOutputBoundary;
 import use_case.SignupOutputData;
 
 import java.time.LocalDateTime;
